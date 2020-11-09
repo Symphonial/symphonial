@@ -7,10 +7,9 @@ const Menu = () => {
       <ul>
         <li>Artistes</li>
         <li>Albums</li>
-        <li>Crédits</li>
+        <li>Crédits et a propos</li>
       </ul>
     </aside>
   )
-}
 
 export default Menu
