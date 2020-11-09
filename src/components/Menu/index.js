@@ -7,7 +7,7 @@ const Menu = () => {
       <ul>
         <li>Artistes</li>
         <li>Albums</li>
-        <li>Samuel</li>
+        <li>Vincent</li>
         <li>Crédits</li>
       </ul>
     </aside>
