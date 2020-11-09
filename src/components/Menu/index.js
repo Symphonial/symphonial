@@ -8,6 +8,8 @@ const Menu = () => {
         <li>Artistes</li>
         <li>Albums</li>
         <li>Crédits et a propos</li>
+        <li>Cagette</li>
+        <li>Crédits</li>
       </ul>
     </aside>
   )
