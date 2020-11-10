@@ -5,8 +5,8 @@ import styles from './Home.module.css'
 const Home = () => {
   return (
     <div className={styles.container}>
-      <Menu />
-      Page d'accueil
+      <Menu/>
+      <h1>SYMPHONIAL</h1>
     </div>
   )
 }

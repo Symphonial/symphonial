@@ -28,14 +28,9 @@ li a:hover {
   color: #B18819;
 }
 
-.active {
-  text-decoration: underline;
-  color: #B18819;
-}
-
 p {
   font-family: ebrima;
-
+  background-image: url('background.png');
 }
 
 @font-face {
@@ -53,16 +48,18 @@ font-family: "MADECannes";
 
 body {
 margin: 0px;
+background-image: url('background.png');
 }
 
 .left {
   float: left !important;
 }
 
-.title {
+h1 {
   color: white;
   font-family: MADECannes;
   text-align: center;
   margin-top: 200px;
   font-size: 110px;
 }
+

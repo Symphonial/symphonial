@@ -8,7 +8,7 @@ const Menu = () => {
         <li><a href="default.asp">Histoire du mois</a></li>
         <li><a href="default.asp">Playlists</a></li>
         <li><a href="default.asp">Les plus écoutés</a></li>
-        <li className='active'><a href="default.asp">Accueil</a></li>
+        <li><a href="default.asp">Accueil</a></li>
       </ul>
     </aside>
   )
