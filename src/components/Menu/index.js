@@ -4,11 +4,11 @@ const Menu = () => {
   return (
     <aside>
       <ul>
-        <li>A propos</li>
-        <li>Histoire du mois</li>
-        <li>Playlists</li>
-        <li>Les plus écoutés</li>
-        <li className='active'>Accueil</li>
+        <li><a href="default.asp">A propos</a></li>
+        <li><a href="default.asp">Histoire du mois</a></li>
+        <li><a href="default.asp">Playlists</a></li>
+        <li><a href="default.asp">Les plus écoutés</a></li>
+        <li className='active'><a href="default.asp">Accueil</a></li>
       </ul>
     </aside>
   )
