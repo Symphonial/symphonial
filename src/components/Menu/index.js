@@ -13,5 +13,4 @@ const Menu = () => {
     </aside>
   )
 }
-
-export default Menu
+export default Menu;
