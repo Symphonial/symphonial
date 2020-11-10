@@ -1,8 +1,11 @@
 import React from 'react'
+import Menu from 'components/Menu'
 
 const Playlists = () => {
     return (
-        <div>playlists</div>
+        <div>
+            <Menu/>
+        </div>
     )
 }
 

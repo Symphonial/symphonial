@@ -1,8 +1,11 @@
 import React from 'react'
+import Menu from 'components/Menu'
 
 const MostListened = () => {
     return (
-        <div>MostListened</div>
+        <div>
+            <Menu/>
+        </div>
     )
 }
 
