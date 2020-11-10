@@ -1,32 +1,6 @@
 .container {
   color: #555555;
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #1E1D1E;
-  height: 70px;
-  font-family: ebrima;
-  display: block;
-}
-
-li {
-  float: right;
-}
-
-li a {
-  display: block;
-  padding: 23px;
-  color: white;
-  text-decoration: none;
-}
-
-li a:hover {
-  text-decoration: underline;
-  color: #B18819;
-}
 
 p {
   font-family: ebrima;

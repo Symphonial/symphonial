@@ -9,9 +9,15 @@ const Menu = () => {
         <li>
           <NavLink to="/about">A propos</NavLink>
         </li>
-        <li><a href="default.asp">Histoire du mois</a></li>
-        <li><a href="default.asp">Playlists</a></li>
-        <li><a href="default.asp">Les plus écoutés</a></li>
+        <li>
+          <NavLink to="/history">Histoire du mois</NavLink>
+        </li>
+        <li>
+          <NavLink to="/Playlists">Playlists</NavLink>
+        </li>
+        <li>
+          <NavLink to="/mostlistened">Les plus écoutés</NavLink>
+        </li>
         <li>
           <NavLink to="/" activeClassName={styles.active}>Accueil</NavLink>
         </li>
