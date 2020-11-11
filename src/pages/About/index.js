@@ -4,7 +4,7 @@ import Menu from 'components/Menu'
 
 const About = () => {
     return (
-        <div>
+        <div className={styles.container}>
             <Menu/>
             <h1 className={styles.classictitle}>A propos</h1>
         </div>
@@ -12,3 +12,4 @@ const About = () => {
 }
 
 export default About
+
