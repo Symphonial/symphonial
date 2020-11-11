@@ -4,5 +4,11 @@
   
   p {
     font-family: ebrima;
-    background-color: #131214 ;
+    background-color: #131214 !important;
   }
+
+  body {
+    margin: 0px;
+    background-color: #131214 !important;
+    }
+    

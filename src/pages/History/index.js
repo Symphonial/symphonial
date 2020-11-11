@@ -4,10 +4,11 @@ import Menu from 'components/Menu'
 
 const History = () => {
     return (
-        <div>
+        <div className={styles.container}>
             <Menu/>
         </div>
     )
+    
 }
 
 export default History
