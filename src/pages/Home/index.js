@@ -7,7 +7,7 @@ const Home = () => {
     
     <div className={styles.container}>
       <Menu/>
-      <h1>SYMPHONIAL</h1>
+      <h1 className={styles.title}>SYMPHONIAL</h1>
     </div>
    
 

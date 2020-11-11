@@ -1,14 +1,19 @@
-.container {
-    color: #555555;
-  }
-  
-  p {
+.history {
     font-family: ebrima;
     background-color: #131214 !important;
-  }
+}
+.classictitle {
+  font-family: SF UI Display Medium;
+  color: #F8F8F8;
+  margin-left: 100px;
+  margin-top: 50px;
 
-  body {
-    margin: 0px;
-    background-color: #131214 !important;
-    }
-    
+}
+
+
+@font-face {
+  font-family: 'SF UI Display Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SF UI Display Medium'), url('sf-ui-display-medium-58646be638f96.woff') format('woff');
+  }

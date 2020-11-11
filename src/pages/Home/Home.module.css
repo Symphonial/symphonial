@@ -28,7 +28,7 @@ background-image: url('background.png');
   float: left !important;
 }
 
-h1 {
+.title{
   color: white;
   font-family: MADECannes;
   text-align: center;
