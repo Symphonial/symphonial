@@ -4,7 +4,7 @@ import Menu from 'components/Menu'
 
 const About = () => {
     return (
-        <div>
+        <div className={styles.container}>
             <Menu/>
             
                 
@@ -17,3 +17,4 @@ const About = () => {
 }
 
 export default About
+
