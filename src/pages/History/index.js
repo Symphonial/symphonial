@@ -9,6 +9,7 @@ const History = () => {
             <h1 className={styles.classictitle}>Histoire du mois</h1>
         </div>
     )
+    
 }
 
 export default History
