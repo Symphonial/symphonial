@@ -10,7 +10,7 @@ const About = () => {
             <p className={styles.footer}>Ce site est la propriété exclusive de SYMPHONIAL</p>
         </div>
    
-        </div>
+        
     )
 }
 
