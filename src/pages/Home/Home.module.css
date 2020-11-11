@@ -4,7 +4,6 @@
 
 p {
   font-family: ebrima;
-  background-image: url('background.png');
 }
 
 @font-face {
@@ -33,7 +32,7 @@ h1 {
   color: white;
   font-family: MADECannes;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 180px;
   font-size: 110px;
 }
 
