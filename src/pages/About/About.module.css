@@ -5,8 +5,8 @@
     color: #F8F8F8;
     margin-left: 400px;
     margin-right: 400px;
-    margin-top: 300px;
-    font-size: 20px
+    margin-top: 250px;
+    font-size: 16px
 
 
   } 
@@ -17,7 +17,7 @@
     margin-left: 400px;
     margin-right: 400px;
     margin-top: 50px;
-    font-size: 20px
+    font-size: 16px
 
 
   } 
@@ -28,7 +28,15 @@
     margin-left: 400px;
     margin-right: 400px;
     margin-top: 50px;
-    font-size: 20px
+    font-size: 16px
 
 
   } 
+
+.about {
+    color: #555555;
+    background-image: url('Backgroundapropos.png');
+    margin: auto;
+    height: 100vh;
+  }
+  
