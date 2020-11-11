@@ -1,10 +1,10 @@
 .container {
   color: #555555;
+  background-image: url('background.png');
 }
 
 p {
   font-family: ebrima;
-  background-image: url('background.png');
 }
 
 @font-face {
@@ -22,18 +22,26 @@ font-family: "MADECannes";
 
 body {
 margin: 0px;
-background-image: url('background.png');
 }
 
 .left {
   float: left !important;
 }
 
-h1 {
+.title{
   color: white;
   font-family: MADECannes;
   text-align: center;
   margin-top: 200px;
   font-size: 110px;
+}
+
+.footer{
+  color: white;
+  font-family: ebrima;
+  margin-top: 338px;
+  margin-bottom: 0px;
+  text-align: right;
+  font-size: 12px;
 }
 
