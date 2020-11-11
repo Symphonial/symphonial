@@ -6,6 +6,7 @@ const About = () => {
     return (
         <div>
             <Menu/>
+            <h1 className={styles.classictitle}>A propos</h1>
         </div>
     )
 }

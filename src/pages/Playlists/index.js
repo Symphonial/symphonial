@@ -6,6 +6,7 @@ const Playlists = () => {
     return (
         <div>
             <Menu/>
+            <h1 className={styles.classictitle}>Playlists</h1>
         </div>
     )
 }
