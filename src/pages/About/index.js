@@ -7,6 +7,9 @@ const About = () => {
         <div className={styles.container}>
             <Menu/>
             <h1 className={styles.classictitle}>A propos</h1>
+            <p className={styles.footer}>Ce site est la propriété exclusive de SYMPHONIAL</p>
+        </div>
+   
         </div>
     )
 }
