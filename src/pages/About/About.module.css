@@ -1,7 +1,34 @@
-.classictitle {
+
+
+.texte1 {
     font-family: SF UI Display Medium;
     color: #F8F8F8;
-    margin-left: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 300px;
+    font-size: 20px
+
+
+  } 
+
+.texte2 {
+    font-family: SF UI Display Medium;
+    color: #F8F8F8;
+    margin-left: 400px;
+    margin-right: 400px;
     margin-top: 50px;
-  
-  }
+    font-size: 20px
+
+
+  } 
+
+.texte3 {
+    font-family: SF UI Display Medium;
+    color: #F8F8F8;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    font-size: 20px
+
+
+  } 
