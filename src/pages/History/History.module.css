@@ -13,6 +13,30 @@
   margin-left: 6vw;
   margin-top: 5vh;
 }
+.titre {
+  font-family: SF UI Display Medium;
+  color: #F8F8F8;
+  margin-left: 6vw;
+  margin-top: 5vh;
+}
+.artiste {
+  font-family: SF UI Display Medium;
+  color: #F8F8F8;
+  margin-left: 6vw;
+  margin-top: 5vh;
+}
+.titrehistoire{
+  font-family: SF UI Display Medium;
+  color: #F8F8F8;
+  margin-left: 6vw;
+  margin-top: 5vh;
+}
+.histoire {
+  font-family: SF UI Display Medium;
+  color: #F8F8F8;
+  margin-left: 6vw;
+  margin-top: 5vh;
+}
 
 
 @font-face {
