@@ -4,7 +4,7 @@ import Menu from 'components/Menu'
 
 const History = () => {
     return (
-        <div className={styles.History}>
+        <div className={styles.history}>
             <Menu/>
             <h1 className={styles.classictitle}>Histoire du mois</h1>
         </div>

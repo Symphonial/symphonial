@@ -1,6 +1,7 @@
 .history {
     font-family: ebrima;
-    background-color: #131214 !important;
+    background-color: #131214;
+    height: 100vh;
 }
 .classictitle {
   font-family: SF UI Display Medium;
