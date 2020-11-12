@@ -1,12 +1,12 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
 import styles from './Symphonial.module.css'
+import Logo from "./logo.png"
 
 
 const Symphonial = () => {
     return (
         <div>
-            <img className={styles.symphonial} src="\logo.png" alt="logo"></img>
+            <img className={styles.symphonial} src={Logo} alt="logo"></img>
         </div>
     )
   }
