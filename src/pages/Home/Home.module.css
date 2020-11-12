@@ -39,6 +39,8 @@ margin: 0px;
   color: white;
   font-family: MADECannes;
   text-align: center;
-  font-size: 110px;
+  font-size: 7rem;
+  margin-block-end: 0;
+  margin-block-start: 0;
 }
 
