@@ -34,9 +34,11 @@
   } 
 
 .about {
-    color: #555555;
-    background-image: url('Backgroundapropos.png');
+    font-family: ebrima;
+    background-color: #131214;
     margin: auto;
-    height: 100vh;
-  }
-  
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 100%;
+}

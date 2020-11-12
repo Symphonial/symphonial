@@ -1,13 +1,15 @@
-.classictitle {
-    font-family: SF UI Display Medium;
-    color: #F8F8F8;
-    margin-left: 100px;
-    margin-top: 50px;
-  
-  }
-
-  .mostlistened {
+.mostlistened {
     font-family: ebrima;
     background-color: #131214;
-    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 100%;
+}
+.classictitle {
+  font-family: SF UI Display Medium;
+  color: #F8F8F8;
+  margin-left: 6vw;
+  margin-top: 5vh;
 }

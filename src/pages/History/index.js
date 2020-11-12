@@ -1,11 +1,12 @@
 import React from 'react'
 import styles from './History.module.css'
 import Menu from 'components/Menu'
+import Page from '../../components/Page'
 
 const History = () => {
     return (
+<Page>        
         <div className={styles.history}>
-            <Menu/>
             <h1 className={styles.classictitle}>Histoire du mois</h1>
             <h2> Sonate des trilles du diable </h2>
             <h2> Giuseppe Tartini </h2>
@@ -16,6 +17,7 @@ const History = () => {
             <p>Ce morceau spectaculaire est diaboliquement difficile même pour les musiciens les plus accomplis. Tartini considère le sonate des trilles du diable comme sa meilleure composition, même s’il pense que cela n’a rien à voir avec l’œuvre que lui a joué le diable lors de son rêve. </p>
             
         </div>
+</Page>
     )
     
 }
