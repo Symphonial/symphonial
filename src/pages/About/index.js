@@ -8,7 +8,6 @@ const About = () => {
         <div className={styles.about}>
             <Menu/>
             <h1 className={styles.classictitle}>A propos</h1>
-            <p className={styles.footer}>Ce site est la propriété exclusive de SYMPHONIAL</p>
 
             <Symphonial/>
                 <p className={styles.texte1}>SYMPHONIAL est une plateforme de streaming audio ayant pour but de démocratiser la musique classique. Pour cela, nous souhaitons mettre en avant les compositeurs les plus connus, mais également des mélodies moins populaires mais qui sont reliées à des histoires étonnantes. Il s’agit pour nous de rendre la musique classique ludique pour les novices, tout en permettant aux passionnés de pouvoir s’instruire. En effet, ils découvriront des titres qu’ils ne connaissent pas et surtout ils apprendront des histoires intéressantes sur ce genre musical. </p>

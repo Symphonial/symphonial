@@ -2,7 +2,12 @@
   color: #555555;
   background-image: url('background.png');
   margin: auto;
-  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  width: 100%;
 }
 
 p {
@@ -34,7 +39,6 @@ margin: 0px;
   color: white;
   font-family: MADECannes;
   text-align: center;
-  margin-top: 200px;
   font-size: 110px;
 }
 
