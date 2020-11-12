@@ -18,26 +18,30 @@
   color: #F8F8F8;
   margin-left: 6vw;
   margin-top: 5vh;
+  font-size: 2.7rem;
 }
 .artiste {
   font-family: SF UI Display Medium;
   color: #B68C1A;
-  margin-left: 6vw;
-  margin-top: -2vh;
+  margin-left: 25vw;
+  margin-top: -5vh;
   
   
 }
 .titrehistoire{
   font-family: SF UI Display Medium;
-  color: #F8F8F8;
-  margin-left: 6vw;
+  color: #B68C1A;
+  margin-left: 55vw;
   margin-top: 5vh;
+  font-size: 1.8rem;
 }
 .histoire {
   font-family: SF UI Display Medium;
   color: #F8F8F8;
-  margin-left: 6vw;
+  margin-left: 55vw;
+  margin-right: 15vw;
   margin-top: -1vh;
+  font-size: 1.1rem;
 }
 
 
