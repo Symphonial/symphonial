@@ -8,7 +8,6 @@ const Home = () => {
     <div className={styles.container}>
       <Menu/>
       <h1 className={styles.title}>SYMPHONIAL</h1>
-      <p className={styles.footer}>Ce site est la propriété exclusive de SYMPHONIAL</p>
     </div>
    
 

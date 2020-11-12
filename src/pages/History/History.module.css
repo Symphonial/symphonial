@@ -1,6 +1,7 @@
 .history {
     font-family: ebrima;
-    background-color: #131214 !important;
+    background-color: #131214;
+    height: 100vh;
 }
 .classictitle {
   font-family: SF UI Display Medium;
@@ -16,13 +17,4 @@
   font-style: normal;
   font-weight: normal;
   src: local('SF UI Display Medium'), url('sf-ui-display-medium-58646be638f96.woff') format('woff');
-  }
-
-  .footer{
-    color: white;
-    font-family: ebrima;
-    margin-top: 338px;
-    margin-bottom: 0px;
-    text-align: right;
-    font-size: 12px;
-  }
+}

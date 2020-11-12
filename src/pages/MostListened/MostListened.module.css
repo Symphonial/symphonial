@@ -5,11 +5,9 @@
     margin-top: 50px;
   
   }
-  .footer{
-    color: white;
+
+  .mostlistened {
     font-family: ebrima;
-    margin-top: 338px;
-    margin-bottom: 0px;
-    text-align: right;
-    font-size: 12px;
-  }
+    background-color: #131214;
+    height: 100vh;
+}

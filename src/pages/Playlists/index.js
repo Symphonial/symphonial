@@ -4,7 +4,7 @@ import Menu from 'components/Menu'
 
 const Playlists = () => {
     return (
-        <div>
+        <div className={styles.playlists}>
             <Menu/>
             <h1 className={styles.classictitle}>Playlists</h1>
         </div>

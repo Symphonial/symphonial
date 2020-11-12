@@ -1,12 +1,42 @@
-.classictitle {
+
+
+.texte1 {
     font-family: SF UI Display Medium;
     color: #F8F8F8;
-    margin-left: 100px;
-    margin-top: 50px;
-  
-  }
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 250px;
+    font-size: 16px
 
-.container {
+
+  } 
+
+.texte2 {
+    font-family: SF UI Display Medium;
+    color: #F8F8F8;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    font-size: 16px
+
+
+  } 
+
+.texte3 {
+    font-family: SF UI Display Medium;
+    color: #F8F8F8;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    font-size: 16px
+
+
+  } 
+
+.about {
     color: #555555;
-     background-image: url('ecartplani.png');
+    background-image: url('Backgroundapropos.png');
+    margin: auto;
+    height: 100vh;
   }
+  
