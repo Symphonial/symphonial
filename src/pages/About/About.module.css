@@ -35,7 +35,7 @@
 
 .about {
     font-family: ebrima;
-    background-color: #131214;
+    background-image: url("Backgroundapropos.png");
     margin: auto;
     display: flex;
     flex-direction: column;

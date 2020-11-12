@@ -1,6 +1,9 @@
 .symphonial {
-    width: 860px;
-    height: 400px;
-    align-items: center;
+    width: 250px;
+    height: 110px;
     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
