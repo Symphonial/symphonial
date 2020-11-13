@@ -13,15 +13,15 @@
   color: #F8F8F8;
   margin-left: 6vw;
   margin-top: 8vh;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .artiste {
   font-family: SF UI Display Light;
   color: #B68C1A;
-  margin-left: 35vw;
+  margin-left: 32vw;
   margin-top: -7vh; 
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .titrehistoire{
@@ -29,7 +29,7 @@
   color: #B68C1A;
   margin-left: 55vw;
   margin-top: 5vh;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 .histoire {
@@ -38,7 +38,7 @@
   margin-left: 55vw;
   margin-right: 15vw;
   margin-top: -1vh;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 
@@ -61,6 +61,6 @@
     margin-top: 6vh;
     max-width: 360px;
     max-height: 360px;
-    margin-bottom: -45vh;
-    margin-left: 30vh;
+    margin-bottom: -52vh;
+    margin-left: 27vh;
 }
