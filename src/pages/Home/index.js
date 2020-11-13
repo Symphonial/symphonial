@@ -1,5 +1,5 @@
 import React from 'react'
-import Menu from 'components/Menu'
+//import Menu from 'components/Menu'
 import styles from './Home.module.css'
 import Searchbar from '../../components/SearchBar'
 import Page from '../../components/Page'

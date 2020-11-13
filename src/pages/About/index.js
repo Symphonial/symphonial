@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './About.module.css'
-import Menu from 'components/Menu'
+//import Menu from 'components/Menu'
 import Symphonial from 'components/Symphonial'
 import Page from '../../components/Page'
 

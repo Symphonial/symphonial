@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './History.module.css'
-import Menu from 'components/Menu'
+//import Menu from 'components/Menu'
 import Page from '../../components/Page'
 import img from "./img.png"
 
