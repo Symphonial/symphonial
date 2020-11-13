@@ -1,6 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import styles from './Menu.module.css'
+import Logo from "./logo.png"
 
 const Menu = () => {
   return (
@@ -20,6 +21,9 @@ const Menu = () => {
         </li>
         <li>
           <NavLink to="/" activeClassName={styles.active}>Accueil</NavLink>
+        </li>
+        <li>
+          <img className={styles.logo} src={Logo} alt="logo"></img>
         </li>
       </ul>
     </aside>

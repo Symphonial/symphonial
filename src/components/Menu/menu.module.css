@@ -29,3 +29,16 @@ ul {
     text-decoration: underline;
     color: #B18819;
   }
+
+  .logo {
+    float: left;
+    max-width: 130px;
+    max-height: 65px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    margin-right: 48vw;
+    margin-top: 2vh;
+    
+  }
