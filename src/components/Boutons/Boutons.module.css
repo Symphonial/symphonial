@@ -1,0 +1,16 @@
+.boutons {
+    width: 244px;
+    position: 'relative';;
+    max-height: 193px;
+    max-width: 100%;
+    height: auto;
+    align-content: center;
+    justify-content: center;
+    margin-right: 8vh;
+    margin-left: 10vh;
+    border-radius: 80px;
+}
+
+.boutons:hover {
+    opacity: 0.5%;
+}
