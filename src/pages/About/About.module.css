@@ -3,9 +3,10 @@
 .texte1 {
     font-family: SF UI Display Light;
     color: #F8F8F8;
-    font-size: 1rem;
-    margin-left: 15vw;
-    margin-right: 15vw;
+    font-size: 1.1rem;
+    margin-left: 24vw;
+    margin-right: 24vw;
+    text-align: center;
 } 
 
 .about {

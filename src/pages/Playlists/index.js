@@ -8,7 +8,7 @@ const Playlists = () => {
 <Page>     
         <div className={styles.playlists}>
 
-        <h1 className={styles.titre}> Les playlists du moment :</h1>
+        <h1 className={styles.titre}> Les playlists du moment</h1>
         <h2 className={styles.mois}> Novembre </h2>
  
         </div>
