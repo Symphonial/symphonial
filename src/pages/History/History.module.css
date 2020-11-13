@@ -9,7 +9,7 @@
 }
 
 .titre {
-  font-family: SF UI Display Medium;
+  font-family: SF UI Display Light;
   color: #F8F8F8;
   margin-left: 6vw;
   margin-top: 8vh;
@@ -17,7 +17,7 @@
 }
 
 .artiste {
-  font-family: SF UI Display Medium;
+  font-family: SF UI Display Light;
   color: #B68C1A;
   margin-left: 31vw;
   margin-top: -7vh; 
@@ -25,7 +25,7 @@
 }
 
 .titrehistoire{
-  font-family: SF UI Display Medium;
+  font-family: SF UI Display Light;
   color: #B68C1A;
   margin-left: 55vw;
   margin-top: 5vh;
@@ -33,7 +33,7 @@
 }
 
 .histoire {
-  font-family: SF UI Display Medium;
+  font-family: SF UI Display Light;
   color: #F8F8F8;
   margin-left: 55vw;
   margin-right: 15vw;
@@ -47,6 +47,14 @@
   font-style: normal;
   font-weight: normal;
   src: local('SF UI Display Medium'), url('sf-ui-display-medium-58646be638f96.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'SF UI Display Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SF UI Display Light'), url('sf-ui-display-light-58646b33e0551.otf') format('otf');
 }
 
 .imghistoire {

@@ -3,7 +3,7 @@ import styles from './SearchBar.module.css'
 
 const Searchbar = () => {
     return (
-    <input className={styles.recherche} type="text"/> 
+    <input className={styles.recherche} type="text" placeholder="Trouver un artiste, une oeuvre..."/> 
     )    
 }
 
