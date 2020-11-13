@@ -1,4 +1,13 @@
 .recherche {
-    border-radius: 5%;
-    width: 32vw;
+    width: 35vw;
+    height: 3.5vh;
+    border-color: #B18819;
+    font-family: SF UI Display Light;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 15px;
+    color: grey;
+    border-style: solid;
+    box-shadow: none;
+    outline: none;
 }
