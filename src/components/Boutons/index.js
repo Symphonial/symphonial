@@ -8,7 +8,7 @@ import Typography from '@material-ui/core/Typography';
 const images = [
  
   {
-    url: '/Mozart.png',
+    url: '/mozart.png',
     title: 'Mozart',
     width: '22%',
   },
@@ -19,13 +19,13 @@ const images = [
     width: '22%',
   },
   {
-    url: '/Mozart.png',
+    url: '/vivaldi.png',
     title: 'Vivaldi',
     width: '22%',
   },
   {
-    url: '/Mozart.png',
-    title: 'loli',
+    url: '/tartini.png',
+    title: 'Tartini',
     width: '22%',
   }, 
   

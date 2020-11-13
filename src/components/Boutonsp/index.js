@@ -3,28 +3,27 @@ import { makeStyles } from '@material-ui/core/styles';
 import ButtonBase from '@material-ui/core/ButtonBase';
 import Typography from '@material-ui/core/Typography';
 
-
 const images = [
  
   {
-    url: '/Mozart.png',
-    title: 'Mozart',
+    url: '/baroque.png',
+    title: 'Baroque',
     width: '22%',
   },
    
   {
-    url: '\Test\src\pages\MostListened\Mozart.png',
-    title: 'Beethoven',
+    url: '/violoncelle.png',
+    title: 'Vioncelle',
     width: '22%',
   },
   {
-    url: '/Mozart.png',
-    title: 'Vivaldi',
+    url: '/opera.png',
+    title: 'Opéra',
     width: '22%',
   },
   {
-    url: '/Mozart.png',
-    title: 'loli',
+    url: '/asiatique.png',
+    title: 'Asiatique',
     width: '22%',
   }, 
   

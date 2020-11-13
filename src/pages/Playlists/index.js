@@ -11,6 +11,7 @@ const Playlists = () => {
 
             <h1 className={styles.titre}> Les playlists du moment</h1>
             <h2 className={styles.mois}> Novembre </h2>
+            <br></br><br></br><br></br>
             <Boutonsp/>
 
         </div>
