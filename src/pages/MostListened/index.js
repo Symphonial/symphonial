@@ -7,7 +7,9 @@ const MostListened = () => {
     return (
 <Page>        
         <div className={styles.mostlistened}>
-            <h1 className={styles.classictitle}>Les plus écoutés</h1>
+            <h1 className={styles.titre}> Les plus écoutés :</h1>
+            <h2 className={styles.mois}> Novembre </h2>
+         
         </div>
 </Page>
     )

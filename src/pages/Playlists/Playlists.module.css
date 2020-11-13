@@ -7,9 +7,19 @@
     flex-grow: 1;
     width: 100%;
 }
-.classictitle {
+
+.titre {
   font-family: SF UI Display Medium;
   color: #F8F8F8;
   margin-left: 6vw;
-  margin-top: 5vh;
+  margin-top: 8vh;
+  font-size: 3.5rem;
+}
+
+.mois {
+  font-family: SF UI Display Medium;
+  color: #B68C1A;
+  margin-left: 33vw;
+  margin-top: -6vh; 
+  font-size: 2rem;
 }
